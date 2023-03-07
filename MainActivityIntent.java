@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        //(Button 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)
         //implement onClick event for Implicit Intent
         implicit_btn.setOnClickListener(new View.OnClickListener() {
             @Override
